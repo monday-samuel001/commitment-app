@@ -1,0 +1,8 @@
+#ignore the software folder
+software-code/
+#ignore the target folder
+target/
+#ignore these files below
+file03.txt
+
+
