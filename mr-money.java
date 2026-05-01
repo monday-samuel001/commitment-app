@@ -1,1 +1,1 @@
-The album is deadass man.
+MCBH is the sweetest among them all.
