@@ -1,1 +1,1 @@
-I love linux.
+Samuel is the king of linux
