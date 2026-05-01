@@ -1,1 +1,1 @@
-Linux is one of my favourite tool, i love the whole idea of using commands to find my way in the terminal. It's really crazy that i started out confused but now i am reallycomfortable with the terminal, linux is a very cool tool.
+Linux is one of my favourite tools; I love the whole idea of using commands to find my way in the terminal. It's really crazy that I started confused, but now I am really comfortable with the terminal. Linux is a very cool tool.
