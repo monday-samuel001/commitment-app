@@ -15,3 +15,7 @@ What to type: Most people just leave the default message ("Merge branch 'main'..
 
 How to start typing (in Vim): Press the i key on your keyboard. This enters "Insert" mode, which lets you actually type text. You’ll see -- INSERT -- at the bottom of the screen.
 
+
+//Task 1
+
+My name is Monday samuel... and i am done with this file. Actually i am donw with the file, thank you!!. I am very good, i will be an IT professional. Now!!!
