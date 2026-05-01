@@ -1,1 +1,1 @@
-The album is deadass man.
+I love the album like mad.
